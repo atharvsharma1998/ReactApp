@@ -1,9 +1,9 @@
 # React Website
-Created first webpage using react and gatsby.
+Created first webpage using react and gatsby. Hosted using Netlify
 Link:- [https://awesome-roentgen-27e038.netlify.app/](https://awesome-roentgen-27e038.netlify.app/)
 
 ## Webpage Video
-<img src="GithubAssets/WebpageVideo.gif" width="500">
+<img src="GithubAssets/WebpageVideo.gif" width="700">
 
 
 
